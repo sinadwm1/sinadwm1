@@ -1,16 +1,20 @@
 <div align="center">
   <a href="README_FA.md">فارسی</a> · <strong>English</strong><br /><br />
-  <img src="assets/banner.svg" alt="sinaDWM — Python developer" width="100%" />
+  <img src="assets/banner.svg" alt="sinaDWM — programmer, gamer, and maker" width="100%" />
 
   <h1>sinaDWM</h1>
-  <p>Python developer focused on practical Telegram systems, desktop tools, and automation.</p>
+  <p>Programmer since 15 · Gamer · Python software & electronics</p>
 </div>
 
 ---
 
-### About
+### A little about me
 
-I build software that makes everyday workflows easier to manage. My current work spans Telegram bot backends, invoice tooling, and small interactive applications. I value clear setup instructions, honest feature descriptions, and code that can be reviewed and improved.
+I'm **Sina Mahmoudi**, known online as **sinaDWM**. I'm a gamer and programmer who started writing code at **15**. Games drew me to interactive systems and the small details that make an experience feel right. That curiosity now carries into the software I build and the engineering problems I explore.
+
+My work spans **Python applications**, **Telegram systems**, **desktop tools**, **Rain to You**, and **electronics engineering projects**. I like turning experiments into useful, understandable projects: building the core, testing what I can, and documenting what actually works. This profile brings together the source I can share publicly; each project has English and Persian guidance.
+
+<div align="center"><sub>Curiosity from games. Care in code. Ideas that cross software and hardware.</sub></div>
 
 ### Selected projects
 
